@@ -24,13 +24,18 @@ YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdwBa7
 |:green_heart: Italian C++|2020-06|Online|[My Least Favorite Anti-Pattern](https://www.youtube.com/watch?v=CjHgL5EQdcY)|
 |:green_heart: CppCon|2020-09|Online|:star: [Structure and Interpretation of Computer Programs](https://youtu.be/7oV7hiAsVTI)|
 |:blue_heart: C++TO|2020-11|Online|C++ Concepts - Rust Traits - Haskell Typeclasses|
-|:green_heart: Meeting C++|2020-11|Online|[C++ Concepts - Rust Traits - Haskell Typeclasses](https://www.youtube.com/watch?v=Qh7QdG5RK9E)|
+|:green_heart: Meeting C++|2020-11|Online|:star: [C++ Concepts - Rust Traits - Haskell Typeclasses](https://www.youtube.com/watch?v=Qh7QdG5RK9E)|
 |:green_heart: C++ Russia|2020-11|Online|:star: [ITM: My Least Favorite Anti-Pattern](https://www.youtube.com/watch?v=vOgyn1jcKGY)|
 |:green_heart: ACCU |2021-03|Online|[C++ Concepts - Rust Traits - Haskell Typeclasses](https://www.youtube.com/watch?v=iPVoCTgvi8M)|
 |:blue_heart: Britsh APL |2021-03|Online|Algorithms as a Tool of Thought|
 |:green_heart: APL Seeds |2021-03|Online|:star: [Algorithms as a Tool of Thought](https://youtu.be/GZuZgCDql6g)|
 |:green_heart: GTC|2021-04|Online|:star: [Thrust and the C++ Standard Algorithms](https://gtc21.event.nvidia.com/media/Thrust%20and%20the%20C%2B%2B%20Standard%20Algorithms%20%5BS31532%5D/1_im6dgp9u)|
-|:green_heart: Strange Loop*|2021-10|YouTube|Functional vs Array Programming|
+|:green_heart: Strange Loop*|2021-10|YouTube|:star: [Functional vs Array Programming](https://www.youtube.com/watch?v=UogkQ67d0nY)|
+|:green_heart: ARRAY|2022-06|San Diego, USA|Combinatory Logic and Combinators in Array Languages|
+|:green_heart: CppNorth|2022-07|Toronto, Canada|The Twin Algorithms|
+|:green_heart: YouTube|2022-07|Online|The Twin Algorithms|
+|:green_heart: ???|2022-??|???|Enter the Matrix|
+|:green_heart: ???|2022-??|???|Composition Intuition|
 
 ## Lightning Talks
 
@@ -39,14 +44,14 @@ YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLVFrD1dmDdvfXxpn
 |Conference/Meetup|Year|Location|Talk|
 |:---------------|:--:|:--:|:--:|
 |:green_heart: C++Now|2019-05|Aspen, USA|:star: [C++ Algorithms in Haskell](https://youtu.be/dTO3-1C1-t0)|
-|:green_heart: CppCon|2019-09|Aurora, USA|:star: [C++23 Ranges: slide & stride](https://youtu.be/-_lqZJK2vjI)|
+|:green_heart: CppCon|2019-09|Aurora, USA|:star: [C++23 Ranges: `slide` & `stride`](https://youtu.be/-_lqZJK2vjI)|
 |:green_heart: Meeting C++|2019-11|Berlin, Germany|:star: [Consistently Inconsistent](https://youtu.be/tsfaE-eDusg)|
 |:blue_heart: C++TO|2019-11|Toronto, Canada|[Consistently Inconsistent](https://youtu.be/14zEh6QCevw)|
 |:green_heart: C++Now*|2020-05|YouTube|:star: [The STL Algorithm Cheat Sheet](https://youtu.be/LMmFpOhcQhA)|
 |:green_heart: CppCon|2020-09|Online|:star: [SICP Cover Demystified](https://youtu.be/e0vnRZN5GB0)|
 |:green_heart: ACCU |2021-03|Online|:star: [Algorithm Selection](https://www.youtube.com/watch?v=nV4uXgyDCqc)|
 
-* ~ Unofficially
+`* ~ Unofficially`
 
 ## Podcast Appearances
 
